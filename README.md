@@ -9,3 +9,6 @@ The system uses advanced techniques in computer vision and deep learning to anal
 1. Preprocessing: The images are preprocessed to enhance important features for better detection accuracy.
 2. Model: A deep learning model (e.g., Convolutional Neural Networks) is used to identify the presence of lung cancer in medical images.
 3. Evaluation: The model is evaluated using various metrics (accuracy, precision, recall, F1-score) to ensure its performance.
+
+## Test Data
+This project uses a test dataset containing a variety of images, which may include labeled samples of lung scans with known cancer diagnoses. The data can be used to test the model's ability to detect cancerous regions in the images. Make sure to reference the data source appropriately if it is publicly available or if any licenses are required for usage.
