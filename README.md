@@ -15,6 +15,6 @@ This project uses a test dataset containing a variety of images, which may inclu
 
 For the results and further details of the project, please refer to the main project repository and the results at the following link:
 
-[**Main Project and Results**](https://github.com/LavanyaAN21/Lung-Cancer-Detection-master)
+[**Main Project and Results**](https://github.com/LavanyaAN21/Harnessing-Deep-Learning-for-Pulmonary-Nodule-Detection)
 
 Feel free to explore the dataset, use it for training, and test the model's performance.
