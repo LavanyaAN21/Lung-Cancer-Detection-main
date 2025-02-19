@@ -6,6 +6,6 @@ This project aims to develop a machine learning model for the detection of lung 
 The system uses advanced techniques in computer vision and deep learning to analyze the images and predict the likelihood of lung cancer. It can be extended or adapted to various other types of cancer detection systems.
 
 ## Features
-Preprocessing: The images are preprocessed to enhance important features for better detection accuracy.
-Model: A deep learning model (e.g., Convolutional Neural Networks) is used to identify the presence of lung cancer in medical images.
-Evaluation: The model is evaluated using various metrics (accuracy, precision, recall, F1-score) to ensure its performance.
+1. Preprocessing: The images are preprocessed to enhance important features for better detection accuracy.
+2. Model: A deep learning model (e.g., Convolutional Neural Networks) is used to identify the presence of lung cancer in medical images.
+3. Evaluation: The model is evaluated using various metrics (accuracy, precision, recall, F1-score) to ensure its performance.
