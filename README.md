@@ -12,3 +12,9 @@ The system uses advanced techniques in computer vision and deep learning to anal
 
 ## Test Data
 This project uses a test dataset containing a variety of images, which may include labeled samples of lung scans with known cancer diagnoses. The data can be used to test the model's ability to detect cancerous regions in the images. Make sure to reference the data source appropriately if it is publicly available or if any licenses are required for usage.
+
+For the results and further details of the project, please refer to the main project repository and the results at the following link:
+
+[**Main Project and Results**](https://github.com/LavanyaAN21/Lung-Cancer-Detection-master)
+
+Feel free to explore the dataset, use it for training, and test the model's performance.
