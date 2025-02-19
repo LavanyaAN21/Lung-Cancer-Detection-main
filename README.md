@@ -1,4 +1,4 @@
-# Lung-Cancer-Detection-main
+# Lung-Nodule-Train-Test-Data
 
 ## Overview
 This project aims to develop a machine learning model for the detection of lung cancer from medical imaging data (e.g., CT scans, X-rays). The goal is to build an efficient and accurate model that can assist healthcare professionals in identifying potential lung cancer cases, enabling early diagnosis and improving patient outcomes.
